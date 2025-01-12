@@ -9,3 +9,4 @@ hachoir
 mutagen
 psutil
 aiofiles
+gunicorn==20.1.0
